@@ -13,7 +13,7 @@ Tiene 4 entradas, aparte del reloj, la primera es "START" que inicia la captura 
 
 ## How to test
 
-Explain how to use your project
+Ve variando las entradas de acuerdo al código morse.
 
 ## External hardware
 
