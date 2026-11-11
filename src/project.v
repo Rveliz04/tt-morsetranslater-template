@@ -11,7 +11,7 @@
 parameter DISPLAY_WIDTH = 640;
 parameter DISPLAY_HEIGHT = 480;
 
-module tt_um_vga_example (
+module tt_um_Rveliz04_tt-morsetranslater-template (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
