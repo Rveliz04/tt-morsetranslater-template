@@ -17,4 +17,4 @@ Ve variando las entradas de acuerdo al código morse.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Demux, Display 7 segmentos
